@@ -1,4 +1,4 @@
-# Define the base path for storing processed audit data
+# Define the base path for storing processed audit data 
 $CompanyName = "YourCompany"  # Replace with the company name
 $AuditBasePath = "C:\SOC2_Audit\$CompanyName"
 $TodayDate = (Get-Date).ToString("yyyy-MM-dd")
